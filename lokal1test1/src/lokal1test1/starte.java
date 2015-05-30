@@ -6,6 +6,7 @@ public class starte {
 		// TODO Auto-generated method stub
 
 		System.out.println("Peter/test");
+		System.out.println("test3)");
 		System.out.println("Test");
 	}
 
