@@ -8,6 +8,8 @@ public class starte {
 		System.out.println("Peter/test");
 		System.out.println("test3)");
 		System.out.println("Test");
+		System.out.println("test3)");
+		System.out.println("Test");
 	}
 
 }
