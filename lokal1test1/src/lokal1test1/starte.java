@@ -7,6 +7,7 @@ public class starte {
 
 		System.out.println("Peter/test");
 		System.out.println("TesrInDevelop");
+		System.out.println("test3)");
 	}
 
 }
